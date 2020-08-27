@@ -3,10 +3,10 @@
 	<title>Test PHP passed</title>
 </head>
 <body>
-<h1>PHP by ACO en interfaz grafica</h1>
+<h1>LO MAXIMO</h1>
 <p>
 <?php
-	phpinfo();
+//	phpinfo();
 ?>
 </p>
 </body>
